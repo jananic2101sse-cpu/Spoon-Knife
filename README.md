@@ -1,4 +1,4 @@
-### Well hello there!
+### Wthereell hello !
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
@@ -36,7 +36,11 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 
 
+Feature Update
 
+
+
+This project demonstrates Git branching and collaboration.
 
 
 
